@@ -1,54 +1,67 @@
-# 👨‍💻 Koushik Sivakumar  
+# Koushik Sivakumar  
+
+![GitHub followers](https://img.shields.io/github/followers/KoushikSivakumar?label=Followers&style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=KoushikSivakumar&color=blue)  
 
 **Computer Science Engineering Student | Developer | Open-Source Enthusiast | Designer**
 
 ---
 
-## About Me  
+## 🛠 Skills  
 
-I am a Computer Science Engineering student at Sathyabama Institute of Science and Technology with a strong interest in programming, web development, and Linux systems. I enjoy blending technology with creativity, crafting solutions that are both functional and visually appealing.
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
----
+### Frameworks & Tools  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-## Skills & Expertise  
+### Platforms & Systems  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)  
 
-### Programming  
-- **Languages**: Python, C, C++  
-- **Frameworks**: Django, Flask (in progress)  
-
-### Web Development  
-- Front-end: HTML, CSS  
-- Back-end: PHP  
-
-### Platforms & Tools  
-- **Linux**: Ubuntu, Fedora  
-- **Game Engines**: Godot, Unity  
-
----
-
-## Interests  
-
-- Exploring advanced Python frameworks and building scalable applications.  
-- Contributing to open-source projects, especially in Linux and web development.  
-- Enhancing artistic skills to create impactful designs and game assets.  
-- Learning languages: Fluent in English and Tamil; learning Japanese, Hindi, and Spanish.  
+### Game Development  
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
 
 ---
 
-## Projects  
+## 📚 Interests  
 
-### Featured Projects  
-(under development)
-Check out my repositories for more projects!  
-
----
-
-## Let's Connect  
-
-- [**LinkedIn**](https://www.linkedin.com/in/koushik-sivakumar-218948325/)  
-- **Portfolio**: (under development) 
-- [**Email**](itiskoushiksivakumar@gamil.com)  
+- **Programming & Development**: Exploring new frameworks and building efficient solutions.  
+- **Creative Design**: Merging art and technology for innovative projects.  
+- **Open Source**: Contributing to the community and improving Linux systems.  
+- **Language Learning**: Fluent in English and Tamil, currently learning Japanese, Hindi, and Spanish.  
 
 ---
 
-[View my repositories](https://github.com/KoushikSivakumar?tab=repositories) to explore my work.
+## 🔥 Projects  
+
+### Featured Repositories  
+(under dev)
+
+Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).  
+
+---
+
+## 🌐 Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-sivakumar-218948325/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](under dev.)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](itiskoushiksivakumar@gmail.com)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoushikSivakumar&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikSivakumar&layout=compact&theme=tokyonight)  
+
+---
+
