@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/KoushikSivakumar?label=Followers&style=social)  
 ![Profile Views](https://komarev.com/ghpvc/?username=KoushikSivakumar&color=blue)  
 
-**Computer Science Engineering Student | Developer | Open-Source Enthusiast | Designer**
+**Computer Science Engineering Student | Developer | Artist**
 
 ---
 
@@ -18,8 +18,8 @@
 
 
 ### Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  (in progress)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  (in progress)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
@@ -38,9 +38,8 @@
 ## 📚 Interests  
 
 - **Programming & Development**: Exploring new frameworks and building efficient solutions.  
-- **Creative Design**: Merging art and technology for innovative projects.  
-- **Open Source**: Contributing to the community and improving Linux systems.  
-- **Language Learning**: Fluent in English and Tamil, currently learning Japanese, Hindi, and Spanish.  
+- **Creative Design**: Merging art and technology for innovative projects.   
+- **Language Learning**: Fluent in English and Tamil, currently learning Japanese, German, and Spanish.  
 
 ---
 
@@ -58,6 +57,7 @@ Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-sivakumar-218948325/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)](under dev.)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](itiskoushiksivakumar@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.koushhh._/) 
 
 ---
 
