@@ -46,7 +46,7 @@
 ## 🔥 Projects  
 
 ### Featured Repositories  
-[![Distorted Dawn](https://img.shields.io/github/stars/username/repository)]([https://github.com/username/repository](https://github.com/DistortedDawn/game-dev))  
+[Distorted Dawn](https://github.com/DistortedDawn/game-dev)  
 
 Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).  
 
