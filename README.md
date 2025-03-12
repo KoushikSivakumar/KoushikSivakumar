@@ -18,16 +18,12 @@
 
 
 ### Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  (in progress)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  (in progress)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
 ### Platforms & Systems  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)  
 
 ### Game Development  
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)    
@@ -35,7 +31,7 @@
 
 ---
 
-## 📚 Interests  
+## Interests  
 
 - **Programming & Development**: Exploring new frameworks and building efficient solutions.  
 - **Creative Design**: Merging art and technology for innovative projects.   
@@ -43,7 +39,7 @@
 
 ---
 
-## 🔥 Projects  
+## Projects  
 
 ### Featured Repositories  
 [Distorted Dawn](https://github.com/DistortedDawn/game-dev)  
@@ -52,12 +48,11 @@ Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).
 
 ---
 
-## 🌐 Connect  
+## Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-sivakumar-218948325/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white)]  (under dev.)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](itiskoushiksivakumar@gmail.com)   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_.koushhh._/)  
 
 ---
 
