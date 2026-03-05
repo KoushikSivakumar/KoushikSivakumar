@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Skills  
+## skills  
 
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -17,21 +17,21 @@
 
 
 
-### Frameworks & Tools  
+### frameworks & tools  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-### Platforms & Systems  
+### platforms & systems  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
-### Game Development  
+### game dev  
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)    
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
 
 ---
 
-## Interests  
+## interests😛  
 
 - **Programming & Development**: Exploring new frameworks and building efficient solutions.  
 - **Creative Design**: Merging art and technology for innovative projects.   
@@ -39,13 +39,14 @@
 
 ---
 
-## Projects  
+## projects  
 
 ### Featured Repositories  
 [Distorted Dawn](https://github.com/DistortedDawn/game-dev)  
 
 Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).  
 
+pls dont mind the poorly built human slop
 ---
 
 ## Connect  
@@ -56,7 +57,7 @@ Find more projects [here](https://github.com/KoushikSivakumar?tab=repositories).
 
 ---
 
-## 📊 GitHub Stats  
+## gitty stats
 
 ![Koushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoushikSivakumar&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikSivakumar&layout=compact&theme=tokyonight)  
